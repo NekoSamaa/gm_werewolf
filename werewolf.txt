@@ -1,0 +1,5 @@
+"werewolf"
+{
+	"title"		"Werewolf game"
+	"base"		""
+}
